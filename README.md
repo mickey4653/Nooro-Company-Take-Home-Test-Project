@@ -4,8 +4,8 @@ A modern, responsive Todo application built with Next.js frontend and Express.js
 
 ## 🚀 Live Demo
 
-- **Frontend**: [[Your Frontend URL]](https://github.com/mickey4653/todo-list-app-frontend)
-- **Backend API**: [[Your Backend URL]](https://github.com/mickey4653/todo-list-app-backend)
+- **Frontend**: [[Frontend Repo]](https://github.com/mickey4653/todo-list-app-frontend)
+- **Backend API**: [[Backend Repo]](https://github.com/mickey4653/todo-list-app-backend)
 
 ## 📋 Project Overview
 
